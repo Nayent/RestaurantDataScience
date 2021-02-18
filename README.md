@@ -1,2 +1,3 @@
 # RestaurantDataScience
-Análise de dados de um restaurante.
+
+Análise de dados utilizando informaçes obtidas a partir de um restaurante.
